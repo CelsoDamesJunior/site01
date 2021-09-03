@@ -188,7 +188,5 @@ section {
 	position: relative;
 }
 .content-right{
-	position: absolute;
-	right: 550px;
-	bottom: -165px;
+	margin-right: -550px;
 }
